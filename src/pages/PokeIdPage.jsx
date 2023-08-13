@@ -22,7 +22,7 @@ export const PokeIdPage = () => {
         <div className="header__container">
             <div className="header__red"></div>
             <div className="header__black"></div>
-          <a href="/"> <img className="header__img" src="./src/assets/pokedex.png" alt="" /></a>
+          <a href="/"> <img className="header__img" src="src/assets/pokedex.png" alt="" /></a>
          
         </div> 
         </header>
